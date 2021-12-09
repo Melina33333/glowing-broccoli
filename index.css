@@ -1,0 +1,17 @@
+#color {
+    background-color: #fffb008f;
+}
+#brocoli {
+    background-image: url(/brocoli.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50px;
+    
+}
+
+    footer{ 
+        color: #000000; }
+
+    .foot {
+        background-color: rgb(57, 156, 38);
+    }
